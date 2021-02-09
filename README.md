@@ -5,4 +5,4 @@ I have project experience using JavaScript, Java, Python and R.
 
 - :heart: I love learning new technologies and developing software.
 - :ocean: I'm currently working on something cool.
-- :seedling: Currently learning Kafka and Docker.
+- :seedling: Currently learning Kafka, Docker and RDBMS.
